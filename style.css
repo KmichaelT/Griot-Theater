@@ -4,7 +4,8 @@
 }
 .logo{
     font-family: serif;
-    font-size: xx-large;
+    font-size: x-large;
+    font-weight: bold;
 }
 .bgdark{
     background-color: #010101;
